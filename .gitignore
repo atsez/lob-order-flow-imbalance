@@ -1,0 +1,6 @@
+data/*.gz
+data/crypto/
+cpp/ofi_engine
+__pycache__/
+.pytest_cache/
+.venv/
